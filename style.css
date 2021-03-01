@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.webcam {
+    height: 160px;
+    width: 160px;
+    overflow: hidden;
+    border-radius: 80px;
+     -webkit-app-region: drag
+    
+}
